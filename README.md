@@ -1,5 +1,5 @@
 # A-MULTI-EXPOSURE-IMAGE-FUSION-BASED-ON-THE-ADAPTIVE-WEIGHTS
-Image fusion, dynamic range.
+multi-images fusion, dynamic range enhance.
 
 # Abstract
 Most of existing methods focused on finding weight functions that assign larger weightsto the pixels in better-exposed regions. While the conventional methods
